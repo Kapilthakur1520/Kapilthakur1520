@@ -24,7 +24,7 @@
 - 🎓 **Education:**  
   - **M.Tech (Geospatial Engineering)**, IIT Roorkee (2024)  
   - **B.Tech (Civil Engineering)**, NIT Hamirpur (2021)
-- 📍 Based in India
+- 📍 IIT Roorkee
 - 📫 **Contact:**  
   - Email: kapil.t@ce.iitr.ac.in  
   - Phone: +91 8984937369
@@ -46,23 +46,11 @@
 ---
 
 
-## 🏆 Achievements & Awards
-
-- Gold medalist, IITR Sports Championship (Yoga)
-- Top 10 Finisher, IITR India Marathon 2024
-- Research Publication:  
-  - “Seeing without Labels: A Self-Supervised Approach for Building Segmentation in Diverse Indian Urban Environments”, Remote Sensing Applications: Society and Environment, Elsevier, 2025
+## 🏆  Research Publication 
+- “Seeing without Labels: A Self-Supervised Approach for Building Segmentation in Diverse Indian Urban Environments”, Remote Sensing Applications: Society and Environment, Elsevier, 2025
 
 ---
 
-## 👥 Leadership & Experience
-
-- **ICGCE 2024 Student Coordinator**  
-  Led a team for the international event at IIT Roorkee, managing logistics, speakers, and participants.
-- **Teaching Assistant (CEN-512, Geospatial Engineering, IIT Roorkee)**  
-  Conducting practical labs and geodata processing for disaster management and civil engineering.
-
----
 
 ## 🌐 Connect with Me
 
