@@ -36,10 +36,10 @@
 - **Languages:** Python, SQL, HTML, CSS
 - **Software Packages:** AutoCAD, Revit, STAAD Pro, ArcGIS, QGIS, Erdas Imagine, SNAP,RealityScan, Pix4d, MeshLab, CloudCompare
 - **Specializations:**  
-  - Remote Sensing & Photogrammetry  
+  - Remote Sensing
+  - Photogrammetry, 3D Scanning and Modeling 
   - Geospatial Data Analysis  
   - Machine Learning & Deep Learning  
-  - Civil Engineering Surveying
   
 - **Languages Known:** Hindi, English
 
